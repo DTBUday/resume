@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "A personal resume markdown project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DTBUday/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "uday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DTBUday/resume/issues"
+  },
+  "homepage": "https://github.com/DTBUday/resume#readme"
+}
