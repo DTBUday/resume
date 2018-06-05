@@ -13,8 +13,8 @@
   "keywords": [
     "resume"
   ],
-  "author": "uday",
-  "license": "ISC",
+  "author": "Uday Patel",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DTBUday/resume/issues"
   },
@@ -22,5 +22,6 @@
   "dependencies": {
     "html-pdf": "^2.2.0",
     "jsonresume-theme-clean": "file:../jsonresume-theme-clean"
-  }
+  },
+  "devDependencies": {}
 }
